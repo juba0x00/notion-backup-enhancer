@@ -82,7 +82,10 @@ Before:
 After: 
 ![after](images/graph-1-after.png)
 
+## Credits
 
-## Contributors
+### Original Project
 
-- [juba0x00|Mahmoud Hawash](https://www.linkedin.com/in/juba0x00/)
+This project is heavily based on [`notion-backup`](https://github.com/upleveled/notion-backup), created by [upleveled](https://github.com/upleveled). We extend our gratitude to the original creators for their valuable work.
+
+
